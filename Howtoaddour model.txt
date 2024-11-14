@@ -1,0 +1,11 @@
+
+1) Copy the src and scratch folder and  paste into ns-3.26 folder 
+
+2) Open the terminal go to ns-allinone-3.26/ns-3.26 
+
+3) Next type this command "sudo ./waf configure"
+
+4) Next type this command to build our module "sudo ./waf build"
+
+ 
+
